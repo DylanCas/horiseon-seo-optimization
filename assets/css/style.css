@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* dictates color background for the whole body section of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Next 3 selectors dictate layout and colors for the "header" section of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,17 +35,20 @@ body {
     padding-top: 20px;
 }
 
+/* affects color of the links within the nav element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* select font size of the paragraph element texxt */
 p {
     font-size: 16px;
 }
 
+/* sets in the background image and size towards the top of the webpage */
 .hero {
-    height: 800px;
+    height: 600px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -51,6 +56,7 @@ p {
     background-position: center;
 }
 
+/* next 2 selectors sets the layout position for the images in the main article content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -66,7 +72,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* next 10 selectors dictates layout and aesthetic of the "benefits section of the page, on the right edge section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,6 +132,7 @@ p {
     max-width: 150px;
 }
 
+/* next 9 selectors affect the text and image layout/aesthetics of the 3 main articles of content of the webpage */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -179,7 +186,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* next 2 selectors affect the footer, towards the bottom of the page */
 .footer {
     padding: 30px;
     clear: both;
