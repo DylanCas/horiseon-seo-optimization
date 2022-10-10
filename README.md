@@ -25,8 +25,8 @@ To perform and update the codebase to these standards, I did some research onlin
 Usage -
 The webpage itself contains info on how SEO, or search engine optimization, affects the performance and visibility of a website or business. Inside the header, there are several links to related sections of info on the page. 
 Installation - 
-No installation rewuired, only the URL: <!-- insert URL -->
+No installation required, only the URL: <!-- insert URL -->
 Credits -
- 
+
 License - 
 Please refer to the LICENSE in the repo.
